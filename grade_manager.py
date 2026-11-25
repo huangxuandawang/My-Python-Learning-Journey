@@ -36,4 +36,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#（注：内容由AI生成）
